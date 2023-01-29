@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.header-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.image-content > img {
+    width: 80%;
+    padding-left: 4rem;
+
+}
